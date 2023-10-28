@@ -1,2 +1,2 @@
 # SilentShutdown
-You probably saw a Veraxity video on how to shut down "any computer" using the command shutdown -i. It didn't work. This project is for you. If you want the IP adresses, go to cmd and type arp -a. DO NOT USE THIS IN PUBLIC. I've added an additional option to display a URL on the user's PC/Laptop.
+You may have heard that you can shutdown any computer if you input the command "shutdown -i" into CMD. You've maybe even tried it, but it didn't work, so I've created this program which lets you do exactly that (and more...). You'll have to install Python's latest version if you want this to work. Here is the link: https://www.python.org/downloads/. Paste it into your browser and download Python.
